@@ -4,7 +4,6 @@ Promise = require 'when'
 hashPattern = /(^|\s)#([-A-Za-z0-9_]+)(\b)/gi
 
 module.exports = (System) ->
-  Identity = System.getModel 'Identity'
   ActivityItem = System.getModel 'ActivityItem'
 
   addTag = (data) ->
