@@ -2,7 +2,7 @@
   "name": "kerplunk-tags",
   "displayName": "Tags",
   "description": "Tag support for filtering activity items",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "kerplunk": {
     "permissions": {
       "kerplunk-activityitem": {
